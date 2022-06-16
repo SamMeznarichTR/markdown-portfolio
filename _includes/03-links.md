@@ -1,1 +1,1 @@
-See my profile! >> https://github.com/SamMeznarichTR
+[GitHub] (https://github.com/SamMeznarichTR)
